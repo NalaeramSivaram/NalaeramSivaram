@@ -11,41 +11,62 @@ I transform raw data into impactful insights and models. My expertise lies in bu
 *   **Platforms:** GitHub, Streamlit, APIs, Jupyter
 
 ### 🔥 Projects 
-## 1. 🎾 Game Analytics: Unlocking Tennis Data with SportRadar API ##
-    🔗 https://github.com/NalaeramSivaram/Tennis-data-using-API
-*      Extracted and analyzed live tennis match data using SportRadar API.
-*      Performed player & match-level analysis to derive performance insights.
-*      Tools: Python, Pandas, API Handling, Data Visualization.
+## 🤖 Deep Learning & Computer Vision ##
+**☀️ SolarGuard – Intelligent Solar Panel Defect Detection**
+    [https://github.com/NalaeramSivaram/SolarGuard-Intelligent-Defect-Detection-on-Solar-Panels-using-DeepLearning]
 
-## 2. 🐦 Bird Species Observation Analysis in Forest and Grassland ##
-    🔗  https://github.com/NalaeramSivaram/Bird-Species-Observation-Analysis
-*      Collected and analyzed bird observation datasets from multiple habitats.
-*      Applied SQL & Power BI to study biodiversity patterns.
-*      Delivered interactive dashboards to visualize species distribution.
+* Engineered an end-to-end deep learning system utilizing a hybrid CNN for defect classification (dust, snow, damage) and YOLOv8 for precise object localization.
 
-## 3. 🌾 Crop Production Prediction ##
-    🔗  https://github.com/NalaeramSivaram/Crop-Production-prediction-Analysis
-*      Built Machine Learning models to predict crop yield based on historical data.
-*      Used regression techniques and evaluated performance metrics (MAE, RMSE).
-*      Tools: Scikit-learn, Pandas, Matplotlib.
+* Deployed the model as an interactive web application using Streamlit, enabling real-time image uploads and instant defect analysis.
 
-## 4. 🌍 Tourism Data Analysis & Recommendation System ##
-    🔗 https://github.com/NalaeramSivaram/Tourism-Experience-Analytics-Classification-Prediction-and-Recommendation-System
-*      Designed a recommendation system for tourism destinations.
-*      Applied classification algorithms to predict visit modes.
-*      Implemented data cleaning and preprocessing using MySQL and Pandas.
+  Tech: Python, TensorFlow, YOLOv8, OpenCV, Streamlit
 
-## 5. ☀️ SolarGuard – Intelligent Defect Detection on Solar Panels ##
-    🔗 https://github.com/NalaeramSivaram/SolarGuard-Intelligent-Defect-Detection-on-Solar-Panels-using-DeepLearning
-*      Developed a Deep Learning (CNN + YOLOv8) model to detect panel defects:
-*      Dust, Bird-Droppings, Electrical & Physical Damage, Snow.
-*      Deployed on Streamlit for real-time defect classification & localization.
+**🖼️ Image Caption Generator (CNN + LSTM & BLIP-2)**
+    [https://github.com/NalaeramSivaram/Image-Caption-Generator-using-CNN-RNN]
 
-## 6. 🖼️ Image Caption Generator (CNN + LSTM) ##
-    🔗 https://github.com/NalaeramSivaram/Image-Caption-Generator-using-CNN-RNN
-*      Built an Image Captioning System combining CNN (InceptionV3) for feature extraction and LSTM for text generation.
-*      Evaluated performance with BLEU, METEOR, and CIDEr scores.
-*      Also integrated BLIP-2 for improved captioning performance.
+* Developed a neural image caption generator by integrating InceptionV3 (for feature extraction) with an LSTM network (for sequence generation).
+
+* Enhanced model performance by integrating the state-of-the-art BLIP-2 transformer, significantly improving scores across BLEU, METEOR, and CIDEr metrics.
+
+  Tech: TensorFlow, Keras, NLTK, Transformers (Hugging Face)
+
+## 📊 Machine Learning & Data Analysis ##
+**🌾 Crop Production Prediction Model**
+    [https://github.com/NalaeramSivaram/Crop-Production-prediction-Analysis]
+
+* Built and evaluated multiple regression models to predict crop yield from historical data, aiding in agricultural planning and decision-making.
+
+* Optimized model performance, focusing on minimizing key error metrics like Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
+
+ Tech: Scikit-learn, Pandas, Matplotlib, Seaborn
+
+**🌍 Tourism Recommendation & Classification System**
+    [https://github.com/NalaeramSivaram/Tourism-Experience-Analytics-Classification-Prediction-and-Recommendation-System]
+
+* Designed a data-driven system that classifies user preferences and recommends tourism destinations.
+
+* Managed the entire data pipeline: performed rigorous cleaning and preprocessing with Pandas and MySQL before implementing machine learning algorithms.
+
+  Tech: Python, Pandas, Scikit-learn, MySQL, Power BI
+
+## 📈 Data Engineering & Visualization ##
+**🎾 Tennis Match Analytics with SportRadar API**
+    [https://github.com/NalaeramSivaram/Tennis-data-using-API]
+
+* Automated the extraction of live tennis match statistics by interfacing with the SportRadar API.
+
+* Conducted in-depth player and match analysis using Pandas, uncovering actionable insights into performance trends and patterns.
+
+  Tech: Python, Pandas, Requests API, Matplotlib
+
+**🐦 Biodiversity Analysis: Bird Species Observation**
+    [https://github.com/NalaeramSivaram/Bird-Species-Observation-Analysis]
+
+* Analyzed complex ecological datasets to study species distribution and biodiversity across different habitats (forests, grasslands).
+
+* Engineered SQL queries for data aggregation and created an interactive Power BI dashboard to visualize findings effectively.
+
+  Tech: SQL, MySQL, Power BI, Data Visualization
 
 ## ⚡ Skills ##
 
