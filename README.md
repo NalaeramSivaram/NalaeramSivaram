@@ -10,7 +10,7 @@ I transform raw data into impactful insights and models. My expertise lies in bu
 *   **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
 *   **Platforms:** GitHub, Streamlit, APIs, Jupyter
 
-## 🔥 Projects ##
+### 🔥 Projects 
 ## 1. 🎾 Game Analytics: Unlocking Tennis Data with SportRadar API ##
 
   🔗 https://github.com/NalaeramSivaram/Tennis-data-using-API
@@ -73,10 +73,15 @@ I transform raw data into impactful insights and models. My expertise lies in bu
 ## ⚡ Skills ##
 
 ✅ Programming & Data Analysis: Python, Pandas, NumPy, SQL
+
 ✅ Visualization: Power BI, Matplotlib, Seaborn
+
 ✅ Machine Learning: Regression, Classification, Clustering, Recommendation Systems
+
 ✅ Deep Learning: CNN, LSTM, Transfer Learning, Object Detection
+
 ✅ NLP: Text Preprocessing, Word Embeddings, Transformers
+
 ✅ Tools & Platforms: GitHub, Streamlit, Jupyter Notebook, APIs
 
 📫 Let's Connect
