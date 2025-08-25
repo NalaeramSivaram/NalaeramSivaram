@@ -15,11 +15,11 @@ I transform raw data into impactful insights and models. My expertise lies in bu
 
     🔗 https://github.com/NalaeramSivaram/Tennis-data-using-API
 
-      Extracted and analyzed live tennis match data using SportRadar API.
+*      Extracted and analyzed live tennis match data using SportRadar API.
 
-      Performed player & match-level analysis to derive performance insights.
+*      Performed player & match-level analysis to derive performance insights.
 
-      Tools: Python, Pandas, API Handling, Data Visualization.
+*      Tools: Python, Pandas, API Handling, Data Visualization.
 
 ## 2. 🐦 Bird Species Observation Analysis in Forest and Grassland ##
 
