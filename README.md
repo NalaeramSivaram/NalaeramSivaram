@@ -1,19 +1,14 @@
 ## 👋 Hi, I'm Nalaeram Sivaram ##
 
-🚀 Aspiring Data Scientist | Fresher | Problem Solver
+🚀 Data Scientist | Machine Learning Enthusiast | Turning Data into Actionable Intelligence
 
-I am a passionate Data Scientist with hands-on experience in Data Analysis, Machine Learning, Deep Learning, and NLP.
-During my Data Science course at GUVI, I built several real-world projects applying skills in:
+I transform raw data into impactful insights and models. My expertise lies in building and deploying end-to-end Machine Learning and Deep Learning solutions, with a keen interest in **Computer Vision** and **NLP**.
 
-  📊 Data Analysis & Visualization → Pandas, NumPy, Power BI, Matplotlib, Seaborn
-
-  🗄️ Databases → MySQL
-
-  🤖 Machine Learning & Deep Learning → Scikit-learn, TensorFlow, Keras
-
-  🧠 Natural Language Processing (NLP) → Text Preprocessing, Sentiment Analysis, Transformers
-
-  🌐 APIs & Deployment → REST API Integration, Streamlit
+### 🔧 Tech Stack
+*   **Languages:** Python, SQL
+*   **ML/DL:** Scikit-learn, TensorFlow, Keras, CNN, LSTM, YOLO, Transformers
+*   **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
+*   **Platforms:** GitHub, Streamlit, APIs, Jupyter
 
 ## 🔥 Projects ##
 ## 1. 🎾 Game Analytics: Unlocking Tennis Data with SportRadar API ##
